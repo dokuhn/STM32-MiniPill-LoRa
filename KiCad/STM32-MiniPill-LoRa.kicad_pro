@@ -59,28 +59,19 @@
       "drc_exclusions": [
         "courtyards_overlap|139825001|108720925|0292b3a2-24ff-4b62-89a0-7e89b0bb4c23|1869f324-2721-4db0-8b31-9259cf1aad7f",
         "courtyards_overlap|139825001|84082925|6e25a3a4-bba4-4202-8309-d2f32802631a|92837e7a-2045-4f68-be2a-f3b0e9d41452",
-        "courtyards_overlap|171324999|111473053|348396d0-9090-4fd7-b7da-859779384d88|1869f324-2721-4db0-8b31-9259cf1aad7f",
+        "courtyards_overlap|171324999|111473053|1869f324-2721-4db0-8b31-9259cf1aad7f|348396d0-9090-4fd7-b7da-859779384d88",
         "courtyards_overlap|171324999|86835053|20ac0c4f-fdb1-470a-8db4-33de2291718f|92837e7a-2045-4f68-be2a-f3b0e9d41452",
         "lib_footprint_mismatch|136398000|97790000|ae33c59a-57b2-46bb-8ff3-49ae61af200b|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|155575000|110490000|1869f324-2721-4db0-8b31-9259cf1aad7f|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|155575000|85090000|92837e7a-2045-4f68-be2a-f3b0e9d41452|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|155575000|97790000|4b6d27b0-5b3a-423d-952b-a7e72ee8d07f|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|175817600|97790000|dbf33fa8-ff08-4053-8850-e82692b4d152|00000000-0000-0000-0000-000000000000",
-        "silk_edge_clearance|140255000|83820000|098b0dcf-e988-4499-bede-d86fab18baca|2b234b7f-3c5e-4871-bd40-a0638475828e",
-        "silk_edge_clearance|142895000|111760000|098b0dcf-e988-4499-bede-d86fab18baca|aa90f024-b186-4873-82ab-ffe38be202ce",
-        "silk_edge_clearance|142895000|111795000|098b0dcf-e988-4499-bede-d86fab18baca|d6514904-98b6-437a-bdc5-78e4eea41407",
-        "silk_edge_clearance|168255000|83785000|098b0dcf-e988-4499-bede-d86fab18baca|70dfd34e-a1ed-407b-adce-fe61353e9738",
-        "silk_edge_clearance|168255000|83820000|098b0dcf-e988-4499-bede-d86fab18baca|4464bb78-eb13-4c25-af72-6fcea259af32",
-        "silk_edge_clearance|170895000|111760000|098b0dcf-e988-4499-bede-d86fab18baca|ec6ec73f-5f1f-4a15-b0bf-261c86caa9a5",
-        "starved_thermal|144125000|85115000|c7333760-116b-45cc-b8c1-d5b12b7f96ba|30013a83-78a3-40a1-8a63-b3a6a2015830|B.Cu",
-        "starved_thermal|144125000|85115000|c7333760-116b-45cc-b8c1-d5b12b7f96ba|30013a83-78a3-40a1-8a63-b3a6a2015830|F.Cu",
-        "starved_thermal|144125000|85115000|c7333760-116b-45cc-b8c1-d5b12b7f96ba|30013a83-78a3-40a1-8a63-b3a6a2015830|In2.Cu",
-        "starved_thermal|154325000|110465000|c7333760-116b-45cc-b8c1-d5b12b7f96ba|ace9bd04-f385-4cfe-aa07-4af7c127c2ba|B.Cu",
-        "starved_thermal|154325000|110465000|c7333760-116b-45cc-b8c1-d5b12b7f96ba|ace9bd04-f385-4cfe-aa07-4af7c127c2ba|In2.Cu",
-        "starved_thermal|168757600|102170000|c7333760-116b-45cc-b8c1-d5b12b7f96ba|ad37501e-5ff9-4fe1-93ec-76e12781dc36|F.Cu",
-        "starved_thermal|168757600|102170000|c7333760-116b-45cc-b8c1-d5b12b7f96ba|b4d59b03-0d32-4a9a-85f5-06cb31e0133e|B.Cu",
-        "starved_thermal|168757600|93410000|c7333760-116b-45cc-b8c1-d5b12b7f96ba|44c51a2e-aba7-483a-b89c-b61bb6c40955|B.Cu",
-        "starved_thermal|168757600|93410000|c7333760-116b-45cc-b8c1-d5b12b7f96ba|a251c1f7-2e61-4f5f-9138-5c469b015cc2|F.Cu"
+        "silk_edge_clearance|140255000|83820000|86cfa7cd-e1b8-4823-bbb2-b2e26b8849f2|2b234b7f-3c5e-4871-bd40-a0638475828e",
+        "silk_edge_clearance|142895000|111760000|aa65f767-b958-4b22-91e7-b3a0f655122f|aa90f024-b186-4873-82ab-ffe38be202ce",
+        "silk_edge_clearance|142895000|111795000|aa65f767-b958-4b22-91e7-b3a0f655122f|d6514904-98b6-437a-bdc5-78e4eea41407",
+        "silk_edge_clearance|168255000|83785000|86cfa7cd-e1b8-4823-bbb2-b2e26b8849f2|70dfd34e-a1ed-407b-adce-fe61353e9738",
+        "silk_edge_clearance|168255000|83820000|86cfa7cd-e1b8-4823-bbb2-b2e26b8849f2|4464bb78-eb13-4c25-af72-6fcea259af32",
+        "silk_edge_clearance|170895000|111760000|aa65f767-b958-4b22-91e7-b3a0f655122f|ec6ec73f-5f1f-4a15-b0bf-261c86caa9a5"
       ],
       "meta": {
         "version": 2
@@ -146,7 +137,7 @@
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
@@ -156,7 +147,7 @@
         "min_via_diameter": 0.25,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
