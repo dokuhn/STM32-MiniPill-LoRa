@@ -2,6 +2,10 @@
 
 ![top](/Renderings/STM32-MiniPill-LoRa-top.jpg)
 
+## Schematic
+
+[STM32-MiniPill-LoRa.pdf](https://dokuhn.github.io/STM32-MiniPill-LoRa/docs/STM32-MiniPill-LoRa.pdf)
+
 ## License 
 
 This work is licensed under a
