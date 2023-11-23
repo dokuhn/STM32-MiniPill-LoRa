@@ -4,7 +4,9 @@
 
 ## Schematic
 
-[STM32-MiniPill-LoRa.pdf](https://dokuhn.github.io/STM32-MiniPill-LoRa/docs/STM32-MiniPill-LoRa.pdf)
+<p align="center">
+  <img src="./docs/STM32-MiniPill-LoRa.jpg" width="100%" title="Schematic">
+</p>
 
 ## License 
 
